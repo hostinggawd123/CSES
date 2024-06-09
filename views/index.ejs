@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Today's Topics and Problems</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Today's Topics and Problems 💻</h1>
+        <% selectedTypes.forEach(type => { %>
+            <div class="problems">
+                <h2><%= type %> Problems</h2>
+                <ul>
+                    <% selectedProblems[type].forEach(problem => { %>
+                        <li>
+                            <input type="checkbox" id="<%= problem.problem %>" name="<%= problem.problem %>" value="<%= problem.problem %>">
+                            <label for="<%= problem.problem %>">
+                                <a href="<%= problem.link %>" target="_blank"><%= problem.problem %></a>
+                            </label>
+                            <a href="<%= problem.link %>" target="_blank">Solve Problem</a>
+                        </li>
+                    <% }); %>
+                </ul>
+            </div>
+        <% }); %>
+    </div>
+    <h6>Made by Aditya Chaudhary and Tanish Desai</h6>
+</body>
+</html>

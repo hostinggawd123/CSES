@@ -1,0 +1,1502 @@
+[
+  {
+    "type": "Introductory Problems",
+    "problem": "Weird Algorithm",
+    "link": "https://cses.fi/problemset/task/1068"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Missing Number",
+    "link": "https://cses.fi/problemset/task/1083"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Repetitions",
+    "link": "https://cses.fi/problemset/task/1069"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Increasing Array",
+    "link": "https://cses.fi/problemset/task/1094"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Permutations",
+    "link": "https://cses.fi/problemset/task/1070"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Number Spiral",
+    "link": "https://cses.fi/problemset/task/1071"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Two Knights",
+    "link": "https://cses.fi/problemset/task/1072"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Two Sets",
+    "link": "https://cses.fi/problemset/task/1092"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Bit Strings",
+    "link": "https://cses.fi/problemset/task/1617"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Trailing Zeros",
+    "link": "https://cses.fi/problemset/task/1618"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Coin Piles",
+    "link": "https://cses.fi/problemset/task/1754"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Palindrome Reorder",
+    "link": "https://cses.fi/problemset/task/1755"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Gray Code",
+    "link": "https://cses.fi/problemset/task/2205"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Tower of Hanoi",
+    "link": "https://cses.fi/problemset/task/2165"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Creating Strings",
+    "link": "https://cses.fi/problemset/task/1622"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Apple Division",
+    "link": "https://cses.fi/problemset/task/1623"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Chessboard and Queens",
+    "link": "https://cses.fi/problemset/task/1624"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Digit Queries",
+    "link": "https://cses.fi/problemset/task/2431"
+  },
+  {
+    "type": "Introductory Problems",
+    "problem": "Grid Paths",
+    "link": "https://cses.fi/problemset/task/1625"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Distinct Numbers",
+    "link": "https://cses.fi/problemset/task/1621"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Apartments",
+    "link": "https://cses.fi/problemset/task/1084"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Ferris Wheel",
+    "link": "https://cses.fi/problemset/task/1090"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Concert Tickets",
+    "link": "https://cses.fi/problemset/task/1091"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Restaurant Customers",
+    "link": "https://cses.fi/problemset/task/1619"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Movie Festival",
+    "link": "https://cses.fi/problemset/task/1629"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Sum of Two Values",
+    "link": "https://cses.fi/problemset/task/1640"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Maximum Subarray Sum",
+    "link": "https://cses.fi/problemset/task/1643"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Stick Lengths",
+    "link": "https://cses.fi/problemset/task/1074"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Missing Coin Sum",
+    "link": "https://cses.fi/problemset/task/2183"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Collecting Numbers",
+    "link": "https://cses.fi/problemset/task/2216"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Collecting Numbers II",
+    "link": "https://cses.fi/problemset/task/2217"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Playlist",
+    "link": "https://cses.fi/problemset/task/1141"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Towers",
+    "link": "https://cses.fi/problemset/task/1073"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Traffic Lights",
+    "link": "https://cses.fi/problemset/task/1163"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Josephus Problem I",
+    "link": "https://cses.fi/problemset/task/2162"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Josephus Problem II",
+    "link": "https://cses.fi/problemset/task/2163"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Nested Ranges Check",
+    "link": "https://cses.fi/problemset/task/2168"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Nested Ranges Count",
+    "link": "https://cses.fi/problemset/task/2169"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Room Allocation",
+    "link": "https://cses.fi/problemset/task/1164"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Factory Machines",
+    "link": "https://cses.fi/problemset/task/1620"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Tasks and Deadlines",
+    "link": "https://cses.fi/problemset/task/1630"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Reading Books",
+    "link": "https://cses.fi/problemset/task/1631"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Sum of Three Values",
+    "link": "https://cses.fi/problemset/task/1641"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Sum of Four Values",
+    "link": "https://cses.fi/problemset/task/1642"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Nearest Smaller Values",
+    "link": "https://cses.fi/problemset/task/1645"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Subarray Sums I",
+    "link": "https://cses.fi/problemset/task/1660"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Subarray Sums II",
+    "link": "https://cses.fi/problemset/task/1661"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Subarray Divisibility",
+    "link": "https://cses.fi/problemset/task/1662"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Subarray Distinct Values",
+    "link": "https://cses.fi/problemset/task/2428"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Array Division",
+    "link": "https://cses.fi/problemset/task/1085"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Sliding Window Median",
+    "link": "https://cses.fi/problemset/task/1076"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Sliding Window Cost",
+    "link": "https://cses.fi/problemset/task/1077"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Movie Festival II",
+    "link": "https://cses.fi/problemset/task/1632"
+  },
+  {
+    "type": "Sorting and Searching",
+    "problem": "Maximum Subarray Sum II",
+    "link": "https://cses.fi/problemset/task/1644"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Dice Combinations",
+    "link": "https://cses.fi/problemset/task/1633"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Minimizing Coins",
+    "link": "https://cses.fi/problemset/task/1634"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Coin Combinations I",
+    "link": "https://cses.fi/problemset/task/1635"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Coin Combinations II",
+    "link": "https://cses.fi/problemset/task/1636"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Removing Digits",
+    "link": "https://cses.fi/problemset/task/1637"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Grid Paths",
+    "link": "https://cses.fi/problemset/task/1638"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Book Shop",
+    "link": "https://cses.fi/problemset/task/1158"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Array Description",
+    "link": "https://cses.fi/problemset/task/1746"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Counting Towers",
+    "link": "https://cses.fi/problemset/task/2413"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Edit Distance",
+    "link": "https://cses.fi/problemset/task/1639"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Rectangle Cutting",
+    "link": "https://cses.fi/problemset/task/1744"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Money Sums",
+    "link": "https://cses.fi/problemset/task/1745"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Removal Game",
+    "link": "https://cses.fi/problemset/task/1097"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Two Sets II",
+    "link": "https://cses.fi/problemset/task/1093"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Increasing Subsequence",
+    "link": "https://cses.fi/problemset/task/1145"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Projects",
+    "link": "https://cses.fi/problemset/task/1140"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Elevator Rides",
+    "link": "https://cses.fi/problemset/task/1653"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Counting Tilings",
+    "link": "https://cses.fi/problemset/task/2181"
+  },
+  {
+    "type": "Dynamic Programming",
+    "problem": "Counting Numbers",
+    "link": "https://cses.fi/problemset/task/2220"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Counting Rooms",
+    "link": "https://cses.fi/problemset/task/1192"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Labyrinth",
+    "link": "https://cses.fi/problemset/task/1193"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Building Roads",
+    "link": "https://cses.fi/problemset/task/1666"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Message Route",
+    "link": "https://cses.fi/problemset/task/1667"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Building Teams",
+    "link": "https://cses.fi/problemset/task/1668"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Round Trip",
+    "link": "https://cses.fi/problemset/task/1669"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Monsters",
+    "link": "https://cses.fi/problemset/task/1194"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Shortest Routes I",
+    "link": "https://cses.fi/problemset/task/1671"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Shortest Routes II",
+    "link": "https://cses.fi/problemset/task/1672"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "High Score",
+    "link": "https://cses.fi/problemset/task/1673"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Flight Discount",
+    "link": "https://cses.fi/problemset/task/1195"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Cycle Finding",
+    "link": "https://cses.fi/problemset/task/1197"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Flight Routes",
+    "link": "https://cses.fi/problemset/task/1196"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Round Trip II",
+    "link": "https://cses.fi/problemset/task/1678"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Course Schedule",
+    "link": "https://cses.fi/problemset/task/1679"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Longest Flight Route",
+    "link": "https://cses.fi/problemset/task/1680"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Game Routes",
+    "link": "https://cses.fi/problemset/task/1681"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Investigation",
+    "link": "https://cses.fi/problemset/task/1202"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Planets Queries I",
+    "link": "https://cses.fi/problemset/task/1750"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Planets Queries II",
+    "link": "https://cses.fi/problemset/task/1160"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Planets Cycles",
+    "link": "https://cses.fi/problemset/task/1751"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Road Reparation",
+    "link": "https://cses.fi/problemset/task/1675"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Road Construction",
+    "link": "https://cses.fi/problemset/task/1676"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Flight Routes Check",
+    "link": "https://cses.fi/problemset/task/1682"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Planets and Kingdoms",
+    "link": "https://cses.fi/problemset/task/1683"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Giant Pizza",
+    "link": "https://cses.fi/problemset/task/1684"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Coin Collector",
+    "link": "https://cses.fi/problemset/task/1686"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Mail Delivery",
+    "link": "https://cses.fi/problemset/task/1691"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "De Bruijn Sequence",
+    "link": "https://cses.fi/problemset/task/1692"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Teleporters Path",
+    "link": "https://cses.fi/problemset/task/1693"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Hamiltonian Flights",
+    "link": "https://cses.fi/problemset/task/1690"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Knight's Tour",
+    "link": "https://cses.fi/problemset/task/1689"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Download Speed",
+    "link": "https://cses.fi/problemset/task/1694"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Police Chase",
+    "link": "https://cses.fi/problemset/task/1695"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "School Dance",
+    "link": "https://cses.fi/problemset/task/1696"
+  },
+  {
+    "type": "Graph Algorithms",
+    "problem": "Distinct Routes",
+    "link": "https://cses.fi/problemset/task/1711"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Static Range Sum Queries",
+    "link": "https://cses.fi/problemset/task/1646"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Static Range Minimum Queries",
+    "link": "https://cses.fi/problemset/task/1647"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Dynamic Range Sum Queries",
+    "link": "https://cses.fi/problemset/task/1648"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Dynamic Range Minimum Queries",
+    "link": "https://cses.fi/problemset/task/1649"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Range Xor Queries",
+    "link": "https://cses.fi/problemset/task/1650"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Range Update Queries",
+    "link": "https://cses.fi/problemset/task/1651"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Forest Queries",
+    "link": "https://cses.fi/problemset/task/1652"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Hotel Queries",
+    "link": "https://cses.fi/problemset/task/1143"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "List Removals",
+    "link": "https://cses.fi/problemset/task/1749"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Salary Queries",
+    "link": "https://cses.fi/problemset/task/1144"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Prefix Sum Queries",
+    "link": "https://cses.fi/problemset/task/2166"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Pizzeria Queries",
+    "link": "https://cses.fi/problemset/task/2206"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Subarray Sum Queries",
+    "link": "https://cses.fi/problemset/task/1190"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Distinct Values Queries",
+    "link": "https://cses.fi/problemset/task/1734"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Increasing Array Queries",
+    "link": "https://cses.fi/problemset/task/2416"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Forest Queries II",
+    "link": "https://cses.fi/problemset/task/1739"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Range Updates and Sums",
+    "link": "https://cses.fi/problemset/task/1735"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Polynomial Queries",
+    "link": "https://cses.fi/problemset/task/1736"
+  },
+  {
+    "type": "Range Queries",
+    "problem": "Range Queries and Copies",
+    "link": "https://cses.fi/problemset/task/1737"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Subordinates",
+    "link": "https://cses.fi/problemset/task/1674"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Tree Matching",
+    "link": "https://cses.fi/problemset/task/1130"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Tree Diameter",
+    "link": "https://cses.fi/problemset/task/1131"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Tree Distances I",
+    "link": "https://cses.fi/problemset/task/1132"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Tree Distances II",
+    "link": "https://cses.fi/problemset/task/1133"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Company Queries I",
+    "link": "https://cses.fi/problemset/task/1687"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Company Queries II",
+    "link": "https://cses.fi/problemset/task/1688"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Distance Queries",
+    "link": "https://cses.fi/problemset/task/1135"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Counting Paths",
+    "link": "https://cses.fi/problemset/task/1136"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Subtree Queries",
+    "link": "https://cses.fi/problemset/task/1137"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Path Queries",
+    "link": "https://cses.fi/problemset/task/1138"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Path Queries II",
+    "link": "https://cses.fi/problemset/task/2134"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Distinct Colors",
+    "link": "https://cses.fi/problemset/task/1139"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Finding a Centroid",
+    "link": "https://cses.fi/problemset/task/2079"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Fixed-Length Paths I",
+    "link": "https://cses.fi/problemset/task/2080"
+  },
+  {
+    "type": "Tree Algorithms",
+    "problem": "Fixed-Length Paths II",
+    "link": "https://cses.fi/problemset/task/2081"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Josephus Queries",
+    "link": "https://cses.fi/problemset/task/2164"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Exponentiation",
+    "link": "https://cses.fi/problemset/task/1095"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Exponentiation II",
+    "link": "https://cses.fi/problemset/task/1712"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Counting Divisors",
+    "link": "https://cses.fi/problemset/task/1713"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Common Divisors",
+    "link": "https://cses.fi/problemset/task/1081"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Sum of Divisors",
+    "link": "https://cses.fi/problemset/task/1082"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Divisor Analysis",
+    "link": "https://cses.fi/problemset/task/2182"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Prime Multiples",
+    "link": "https://cses.fi/problemset/task/2185"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Counting Coprime Pairs",
+    "link": "https://cses.fi/problemset/task/2417"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Binomial Coefficients",
+    "link": "https://cses.fi/problemset/task/1079"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Creating Strings II",
+    "link": "https://cses.fi/problemset/task/1715"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Distributing Apples",
+    "link": "https://cses.fi/problemset/task/1716"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Christmas Party",
+    "link": "https://cses.fi/problemset/task/1717"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Bracket Sequences I",
+    "link": "https://cses.fi/problemset/task/2064"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Bracket Sequences II",
+    "link": "https://cses.fi/problemset/task/2187"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Counting Necklaces",
+    "link": "https://cses.fi/problemset/task/2209"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Counting Grids",
+    "link": "https://cses.fi/problemset/task/2210"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Fibonacci Numbers",
+    "link": "https://cses.fi/problemset/task/1722"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Throwing Dice",
+    "link": "https://cses.fi/problemset/task/1096"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Graph Paths I",
+    "link": "https://cses.fi/problemset/task/1723"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Graph Paths II",
+    "link": "https://cses.fi/problemset/task/1724"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Dice Probability",
+    "link": "https://cses.fi/problemset/task/1725"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Moving Robots",
+    "link": "https://cses.fi/problemset/task/1726"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Candy Lottery",
+    "link": "https://cses.fi/problemset/task/1727"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Inversion Probability",
+    "link": "https://cses.fi/problemset/task/1728"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Stick Game",
+    "link": "https://cses.fi/problemset/task/1729"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Nim Game I",
+    "link": "https://cses.fi/problemset/task/1730"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Nim Game II",
+    "link": "https://cses.fi/problemset/task/1098"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Stair Game",
+    "link": "https://cses.fi/problemset/task/1099"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Grundy's Game",
+    "link": "https://cses.fi/problemset/task/2207"
+  },
+  {
+    "type": "Mathematics",
+    "problem": "Another Game",
+    "link": "https://cses.fi/problemset/task/2208"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Word Combinations",
+    "link": "https://cses.fi/problemset/task/1731"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "String Matching",
+    "link": "https://cses.fi/problemset/task/1753"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Finding Borders",
+    "link": "https://cses.fi/problemset/task/1732"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Finding Periods",
+    "link": "https://cses.fi/problemset/task/1733"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Minimal Rotation",
+    "link": "https://cses.fi/problemset/task/1110"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Longest Palindrome",
+    "link": "https://cses.fi/problemset/task/1111"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Required Substring",
+    "link": "https://cses.fi/problemset/task/1112"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Palindrome Queries",
+    "link": "https://cses.fi/problemset/task/2420"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Finding Patterns",
+    "link": "https://cses.fi/problemset/task/2102"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Counting Patterns",
+    "link": "https://cses.fi/problemset/task/2103"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Pattern Positions",
+    "link": "https://cses.fi/problemset/task/2104"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Distinct Substrings",
+    "link": "https://cses.fi/problemset/task/2105"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Repeating Substring",
+    "link": "https://cses.fi/problemset/task/2106"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "String Functions",
+    "link": "https://cses.fi/problemset/task/2107"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Substring Order I",
+    "link": "https://cses.fi/problemset/task/2108"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Substring Order II",
+    "link": "https://cses.fi/problemset/task/2109"
+  },
+  {
+    "type": "String Algorithms",
+    "problem": "Substring Distribution",
+    "link": "https://cses.fi/problemset/task/2110"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Point Location Test",
+    "link": "https://cses.fi/problemset/task/2189"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Line Segment Intersection",
+    "link": "https://cses.fi/problemset/task/2190"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Polygon Area",
+    "link": "https://cses.fi/problemset/task/2191"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Point in Polygon",
+    "link": "https://cses.fi/problemset/task/2192"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Polygon Lattice Points",
+    "link": "https://cses.fi/problemset/task/2193"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Minimum Euclidean Distance",
+    "link": "https://cses.fi/problemset/task/2194"
+  },
+  {
+    "type": "Geometry",
+    "problem": "Convex Hull",
+    "link": "https://cses.fi/problemset/task/2195"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Meet in the Middle",
+    "link": "https://cses.fi/problemset/task/1628"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Hamming Distance",
+    "link": "https://cses.fi/problemset/task/2136"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Beautiful Subgrids",
+    "link": "https://cses.fi/problemset/task/2137"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Reachable Nodes",
+    "link": "https://cses.fi/problemset/task/2138"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Reachability Queries",
+    "link": "https://cses.fi/problemset/task/2143"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Cut and Paste",
+    "link": "https://cses.fi/problemset/task/2072"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Substring Reversals",
+    "link": "https://cses.fi/problemset/task/2073"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Reversals and Sums",
+    "link": "https://cses.fi/problemset/task/2074"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Necessary Roads",
+    "link": "https://cses.fi/problemset/task/2076"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Necessary Cities",
+    "link": "https://cses.fi/problemset/task/2077"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Eulerian Subgraphs",
+    "link": "https://cses.fi/problemset/task/2078"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Monster Game I",
+    "link": "https://cses.fi/problemset/task/2084"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Monster Game II",
+    "link": "https://cses.fi/problemset/task/2085"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Subarray Squares",
+    "link": "https://cses.fi/problemset/task/2086"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Houses and Schools",
+    "link": "https://cses.fi/problemset/task/2087"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Knuth Division",
+    "link": "https://cses.fi/problemset/task/2088"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Apples and Bananas",
+    "link": "https://cses.fi/problemset/task/2111"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "One Bit Positions",
+    "link": "https://cses.fi/problemset/task/2112"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Signal Processing",
+    "link": "https://cses.fi/problemset/task/2113"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "New Roads Queries",
+    "link": "https://cses.fi/problemset/task/2101"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Dynamic Connectivity",
+    "link": "https://cses.fi/problemset/task/2133"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Parcel Delivery",
+    "link": "https://cses.fi/problemset/task/2121"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Task Assignment",
+    "link": "https://cses.fi/problemset/task/2129"
+  },
+  {
+    "type": "Advanced Techniques",
+    "problem": "Distinct Routes II",
+    "link": "https://cses.fi/problemset/task/2130"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Shortest Subsequence",
+    "link": "https://cses.fi/problemset/task/1087"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Counting Bits",
+    "link": "https://cses.fi/problemset/task/1146"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Swap Game",
+    "link": "https://cses.fi/problemset/task/1670"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Prüfer Code",
+    "link": "https://cses.fi/problemset/task/1134"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Acyclic Graph Edges",
+    "link": "https://cses.fi/problemset/task/1756"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Strongly Connected Edges",
+    "link": "https://cses.fi/problemset/task/2177"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Even Outdegree Edges",
+    "link": "https://cses.fi/problemset/task/2179"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Multiplication Table",
+    "link": "https://cses.fi/problemset/task/2422"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Advertisement",
+    "link": "https://cses.fi/problemset/task/1142"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Special Substrings",
+    "link": "https://cses.fi/problemset/task/2186"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Permutation Inversions",
+    "link": "https://cses.fi/problemset/task/2229"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Maximum Xor Subarray",
+    "link": "https://cses.fi/problemset/task/1655"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Movie Festival Queries",
+    "link": "https://cses.fi/problemset/task/1664"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Chess Tournament",
+    "link": "https://cses.fi/problemset/task/1697"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Tree Traversals",
+    "link": "https://cses.fi/problemset/task/1702"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Network Renovation",
+    "link": "https://cses.fi/problemset/task/1704"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Graph Girth",
+    "link": "https://cses.fi/problemset/task/1707"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Intersection Points",
+    "link": "https://cses.fi/problemset/task/1740"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Inverse Inversions",
+    "link": "https://cses.fi/problemset/task/2214"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Monotone Subsequences",
+    "link": "https://cses.fi/problemset/task/2215"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "String Reorder",
+    "link": "https://cses.fi/problemset/task/1743"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Stack Weights",
+    "link": "https://cses.fi/problemset/task/2425"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Pyramid Array",
+    "link": "https://cses.fi/problemset/task/1747"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Increasing Subsequence II",
+    "link": "https://cses.fi/problemset/task/1748"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "String Removals",
+    "link": "https://cses.fi/problemset/task/1149"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Bit Inversions",
+    "link": "https://cses.fi/problemset/task/1188"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Xor Pyramid",
+    "link": "https://cses.fi/problemset/task/2419"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Writing Numbers",
+    "link": "https://cses.fi/problemset/task/1086"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "String Transform",
+    "link": "https://cses.fi/problemset/task/1113"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Letter Pair Move Game",
+    "link": "https://cses.fi/problemset/task/2427"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Maximum Building I",
+    "link": "https://cses.fi/problemset/task/1147"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Sorting Methods",
+    "link": "https://cses.fi/problemset/task/1162"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Cyclic Array",
+    "link": "https://cses.fi/problemset/task/1191"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "List of Sums",
+    "link": "https://cses.fi/problemset/task/2414"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Increasing Array II",
+    "link": "https://cses.fi/problemset/task/2132"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Food Division",
+    "link": "https://cses.fi/problemset/task/1189"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Bit Problem",
+    "link": "https://cses.fi/problemset/task/1654"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Swap Round Sorting",
+    "link": "https://cses.fi/problemset/task/1698"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Binary Subsequences",
+    "link": "https://cses.fi/problemset/task/2430"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Tree Isomorphism I",
+    "link": "https://cses.fi/problemset/task/1700"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Counting Sequences",
+    "link": "https://cses.fi/problemset/task/2228"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Critical Cities",
+    "link": "https://cses.fi/problemset/task/1703"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "School Excursion",
+    "link": "https://cses.fi/problemset/task/1706"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Coin Grid",
+    "link": "https://cses.fi/problemset/task/1709"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Robot Path",
+    "link": "https://cses.fi/problemset/task/1742"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Programmers and Artists",
+    "link": "https://cses.fi/problemset/task/2426"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Course Schedule II",
+    "link": "https://cses.fi/problemset/task/1757"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Removing Digits II",
+    "link": "https://cses.fi/problemset/task/2174"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Coin Arrangement",
+    "link": "https://cses.fi/problemset/task/2180"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Counting Bishops",
+    "link": "https://cses.fi/problemset/task/2176"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Grid Puzzle I",
+    "link": "https://cses.fi/problemset/task/2432"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Grid Puzzle II",
+    "link": "https://cses.fi/problemset/task/2131"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Empty String",
+    "link": "https://cses.fi/problemset/task/1080"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Grid Paths",
+    "link": "https://cses.fi/problemset/task/1078"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Bit Substrings",
+    "link": "https://cses.fi/problemset/task/2115"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Reversal Sorting",
+    "link": "https://cses.fi/problemset/task/2075"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Counting Reorders",
+    "link": "https://cses.fi/problemset/task/2421"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Book Shop II",
+    "link": "https://cses.fi/problemset/task/1159"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Network Breakdown",
+    "link": "https://cses.fi/problemset/task/1677"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Visiting Cities",
+    "link": "https://cses.fi/problemset/task/1203"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Missing Coin Sum Queries",
+    "link": "https://cses.fi/problemset/task/2184"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Number Grid",
+    "link": "https://cses.fi/problemset/task/1157"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Maximum Building II",
+    "link": "https://cses.fi/problemset/task/1148"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Filling Trominos",
+    "link": "https://cses.fi/problemset/task/2423"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Stick Divisions",
+    "link": "https://cses.fi/problemset/task/1161"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Coding Company",
+    "link": "https://cses.fi/problemset/task/1665"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Flight Route Requests",
+    "link": "https://cses.fi/problemset/task/1699"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Two Stacks Sorting",
+    "link": "https://cses.fi/problemset/task/2402"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Tree Isomorphism II",
+    "link": "https://cses.fi/problemset/task/1701"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Forbidden Cities",
+    "link": "https://cses.fi/problemset/task/1705"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Area of Rectangles",
+    "link": "https://cses.fi/problemset/task/1741"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Grid Completion",
+    "link": "https://cses.fi/problemset/task/2429"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Creating Offices",
+    "link": "https://cses.fi/problemset/task/1752"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Permutations II",
+    "link": "https://cses.fi/problemset/task/1075"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Functional Graph Distribution",
+    "link": "https://cses.fi/problemset/task/2415"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "New Flight Routes",
+    "link": "https://cses.fi/problemset/task/1685"
+  },
+  {
+    "type": "Additional Problems",
+    "problem": "Grid Path Construction",
+    "link": "https://cses.fi/problemset/task/2418"
+  }
+]
